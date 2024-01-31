@@ -43,7 +43,7 @@ Open your web browser and navigate to http://localhost/Typing-Game-IEEE-ENSIT/in
 
 
 ## Contributors
-Cherni Rihab
+Cherni Rihab + DEV Team IEEE ENSIT
 
 ![Home](./images/home.PNG)
 ![Sign-in](./images/sign-in.PNG)
